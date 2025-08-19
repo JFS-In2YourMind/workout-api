@@ -69,3 +69,4 @@ Tratamento de exceções com IntegrityError e status_code 303
 Projeto desenvolvido por Jaqueline Felix
 
  | LinkedIn : https://www.linkedin.com/in/jaqueline-felix-7a05bb267/
+<img width="1862" height="998" alt="Captura de tela 2025-08-19 181602" src="https://github.com/user-attachments/assets/63721507-570b-45e0-827d-86b5030e83b4" />
